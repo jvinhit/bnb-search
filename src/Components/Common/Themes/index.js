@@ -1,0 +1,28 @@
+export const lightTheme = {
+  isLight: true,
+  bgMain: '#F2F2F2',
+  primaryColor: '#FFF',
+  bgRgba: 'rgba(0,0,0,0)',
+  bgOpacity: '0',
+  logo: '#FFFFFF',
+  inpSIcon: '#484848',
+  inpSearch: 'rgb(72, 72, 72, 70)',
+  inpSearchBg: '#FFFFFF',
+  inpSearchBorder: '#EBEBEB',
+  hoverItemBg: '#0E0E0E',
+  hoverItemCl: '#CDCDCD',
+};
+export const darkTheme = {
+  isLight: true,
+  bgMain: '#141625',
+  primaryColor: '#FFF',
+  bgRgba: 'rgba(0,0,0,0.75)',
+  logo: '#FFFFFF',
+  bgOpacity: '0.8',
+  inpSIcon: '#CDCDCD',
+  inpSearch: 'rgb(205, 205, 205, 70)',
+  inpSearchBg: '#0E0E0E',
+  inpSearchBorder: '#565656',
+  hoverItemBg: '#FFFFFF',
+  hoverItemCl: '#484848',
+};
